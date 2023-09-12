@@ -1,4 +1,4 @@
-# video_player_app
+# Heavan social media flutter app
 
 A new Flutter project.
 
